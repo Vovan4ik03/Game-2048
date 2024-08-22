@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://vovan4ik1.github.io/<repo_name>/)
+# Game 2048
+1. using techology HTML5, SCSS, JS
+2. In this game, you need to score points to win
+- [Game 2048](https://vovan4ik1.github.io/Game-Landing/)
