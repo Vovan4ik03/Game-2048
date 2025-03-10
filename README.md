@@ -14,4 +14,4 @@ About the Game
  - 🎨 SASS (SCSS) – Styles the game with modern design.
  - 🌐 HTML5 – Provides the game structure.
     
-## [Game 2048](https://vovan4ik1.github.io/Game-Landing/)
+## [Game 2048](https://vovan4ik03.github.io/Game-Landing/)
